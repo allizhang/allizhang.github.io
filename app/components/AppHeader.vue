@@ -11,7 +11,7 @@ defineProps<{
     <UNavigationMenu
       :items="links"
       variant="link"
-      color="neutral"    
+      color="neutral"
       class="bg-muted/80 backdrop-blur-sm rounded-full px-2 sm:px-4 border border-muted/50 shadow-lg shadow-neutral-950/5"
       :ui="{
         link: 'px-3 py-2 text-base sm:text-lg font-medium text-neutral-500 hover:text-blue-600',

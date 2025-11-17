@@ -30,7 +30,7 @@ const { global } = useAppConfig()
 const groupedEvents = computed((): Record<Event['category'], Event[]> => {
   const events = page.value?.events || []
   const grouped: Record<Event['category'], Event[]> = {
-    'Piano Performance': [], 
+    'Piano Performance': [],
     'Academic': []
   }
   for (const event of events) {

@@ -31,6 +31,6 @@ useSeoMeta({
     </UPageSection>
     <LandingBlog :page />
     <LandingTestimonials :page />
-    <!-- fz 11-16-2025 turn this off - LandingFAQ :page / --> 
+    <!-- fz 11-16-2025 turn this off - LandingFAQ :page / -->
   </UPage>
 </template>
