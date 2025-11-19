@@ -4,11 +4,6 @@ export default defineNuxtConfig({
     baseURL: '/',
     buildAssetsDir: 'assets/'
   },
- 
-  devtools: {
-    enabled: false
-  },
-
   modules: [
     '@nuxt/eslint',
     '@nuxt/image',
@@ -18,16 +13,14 @@ export default defineNuxtConfig({
     'nuxt-og-image',
     'motion-v/nuxt'
   ],
-
-
+  devtools: {
+    enabled: false
+  },
   css: ['~/assets/css/main.css'],
-
   future: {
     compatibilityVersion: 4
   },
-
   compatibilityDate: '2024-11-01',
-
   nitro: {
     prerender: {
       routes: [
@@ -36,7 +29,6 @@ export default defineNuxtConfig({
       crawlLinks: true
     }
   },
-
   eslint: {
     config: {
       stylistic: {
