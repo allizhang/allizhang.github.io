@@ -30,32 +30,25 @@ hero:
 about:
   title: "About Me"
   description: |
-    As a UX/UI designer and front-end developer with 6 years of experience, I leverage my Boston University Interactive Design degree to craft user-centered digital experiences.
-    My approach blends creative strategy with technical expertise, transforming concepts into functional, purposeful digital products that seamlessly integrate design and technology.
+    I am a senior at William Fremd High School in Chicago Northwest Suburbs. I like all science related subjects, especially biology and medicine. Apart from school, I enjoy handcrafts,  piano, and traveling. I have been a regular piano performance volunteer at a couple senior communitiess in Chicago area and also did internship with a infertility clinic for two summers.
 experience:
-  title: Work Experience
+  title: Volunteering Experience
   items:
-    - position: "Brand Designer at"
-      date: "2023 - Present"
+    - position: "Pianist"
+      date: "2015 - 2025"
       company:
-        name: Nuxt
-        logo: "i-simple-icons-nuxtdotjs"
-        url: "https://nuxt.com"
+        name: the Merion & Plymouth Place  
         color: "#00DC82"
-    - position: "Assets Designer at"
-      date: "2022 - 2023"
+    - position: "Medical Intern"
+      date: "Summer of 2024, 2025"
       company:
-        name: Raycast
-        logo: "i-simple-icons-raycast"
-        url: "https://raycast.com"
-        color: "#FF6363"
-    - position: "Senior UX/UI Designer at"
-      date: "2020 - 2021"
+        name: Chicago Infertility Clinic
+        color: "#FF6363" 
+    - position: "Teaching Assistant"
+      date: "Summer of 2024"
       company:
-        name: Linear
-        logo: "i-simple-icons-linear"
-        url: "https://linear.app"
-        color: "#5E6AD2"
+        name: Music Institute of Chicago 
+        color: "#5E6AD2" 
 testimonials:
   - quote: "Emma's approach to UX design completely transformed our product. She has a rare ability to balance beautiful aesthetics with functional simplicity. The redesign not only looked better, but it reduced our customer support tickets by 40% and increased conversion rates across all key metrics."
     author:

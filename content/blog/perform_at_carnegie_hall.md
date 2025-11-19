@@ -2,7 +2,7 @@
 title: Performance at Carnegie Hall as the 1st Place Winner
 description: Exicted to play at Carnegie Hall New York City and take 5-day vacation in NYC
 date: 2025-03-05
-images: "/images/carnegie_hall.JPG"
+image: "/images/carnegie_hall.JPG"
 minRead: 2
 author:
   name: Allison Zhang
