@@ -1,4 +1,5 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
+// AZ 11-18-2025: app block below is for deployment in Github have to comment out for local dev
 export default defineNuxtConfig({
   app: {
     baseURL: '/',

@@ -1,7 +1,7 @@
 seo:
   title: "Allison Zhang - a 2026 Incoming College Student"
-  description: "Welcome to my portfolio! I'm Allison Zhang, a UX/UI designer and front-end developer based in Boston. I specialize in creating user-centered digital experiences that are both beautiful and functional."
-title: "Hey, I'm Allison Zhang UX/UI Designer"
+  description: "Welcome to my portfolio! I'm Allison Zhang, a 2026 incoming college student from Chicago suburbs. Explore my experiences, projects, and passions."
+title: "Hey, I'm Allison Zhang a 2026 Incoming College Student"
 description: "I craft intuitive digital experiences where design meets functionality. Based in Chicago, bringing ideas to life through code and creativity."
 hero:
   links:
@@ -21,8 +21,6 @@ hero:
       alt: Random Image 5
     - src: https://picsum.photos/468/468?random=6
       alt: Random Image 6
-    - src: https://picsum.photos/468/468?random=6
-      alt: Random Image 6
     - src: https://picsum.photos/468/468?random=7
       alt: Random Image 7
     - src: https://picsum.photos/468/468?random=8
@@ -30,7 +28,7 @@ hero:
 about:
   title: "About Me"
   description: |
-    I am a senior at William Fremd High School in Chicago Northwest Suburbs. I like all science related subjects, especially biology and medicine. Apart from school, I enjoy handcrafts,  piano, and traveling. I have been a regular piano performance volunteer at a couple senior communitiess in Chicago area and also did internship with a infertility clinic for two summers.
+    I am a senior at William Fremd High School in Chicago Northwest Suburbs. I like all science related subjects, especially biology and medicine. Apart from school, I enjoy handcrafts,  piano, and traveling. I have been a regular piano performance volunteer at a couple senior communitiess in Chicago area and also did internship with a fertility clinic for two summers.
 experience:
   title: Volunteering Experience
   items:
@@ -42,7 +40,7 @@ experience:
     - position: "Medical Intern"
       date: "Summer of 2024, 2025"
       company:
-        name: Chicago Infertility Clinic
+        name: Fertility Clinic
         color: "#FF6363" 
     - position: "Teaching Assistant"
       date: "Summer of 2024"
@@ -50,7 +48,7 @@ experience:
         name: Music Institute of Chicago 
         color: "#5E6AD2" 
 testimonials:
-  - quote: "Emma's approach to UX design completely transformed our product. She has a rare ability to balance beautiful aesthetics with functional simplicity. The redesign not only looked better, but it reduced our customer support tickets by 40% and increased conversion rates across all key metrics."
+  - quote: "TBD"
     author:
       name: 'Sarah Chen'
       description: 'Product Director at Bloom Finance'
