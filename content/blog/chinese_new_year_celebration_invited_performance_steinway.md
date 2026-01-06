@@ -1,6 +1,6 @@
 ---
 title: Lunar Year Celebration Piano Performance as an Invited Young Pianist at Steinway
-description: Piano Performance to celebrate Chinese New Year 2023 - "the Butterfly Lovers".
+description: Piano Performance to celebrate Chinese New Year 2025 - "the Butterfly Lovers".
 date: 2025-01-28
 image: "/images/chinese_new_year_celebration_steinway.jpg"
 minRead: 2
@@ -11,6 +11,6 @@ author:
     alt: Allison Zhang
 ---
 
-Piano Performance to celebrate Chinese New Year 202 - "the Butterfly Lovers" as an Invited Young Pianist at Steinway.
+Piano Performance to celebrate Chinese New Year 2025 - "the Butterfly Lovers" as an Invited Young Pianist at Steinway.
 
 My dad said this is his favorite among all my performances. 😊
